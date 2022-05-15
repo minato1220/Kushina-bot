@@ -1,5 +1,5 @@
 {
-  "name": "Chitoge",
+  "name": "Kushina",
   "description": "A WhatsApp Bot With Rich Anime Features. ",
   "keywords": [
     "bot",
@@ -13,7 +13,7 @@
   ],
   "website": "https://github.com/ShinNouzen/Chitoge#readme",
   "repository": "https://github.com/ShinNouzen/Chitoge.git",
-  "logo": "https://wallpapermemory.com/uploads/711/chitoge-kirisaki-wallpaper-full-hd-323316.jpg",
+  "logo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a6634259-05fb-4879-b194-fa76724a2c06/dea2uiu-732a57f5-7631-4ad1-a664-114582c6c75e.png/v1/fill/w_1280,h_720,strp/kushina_wallpaper_by_user0412_dea2uiu-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvYTY2MzQyNTktMDVmYi00ODc5LWIxOTQtZmE3NjcyNGEyYzA2XC9kZWEydWl1LTczMmE1N2Y1LTc2MzEtNGFkMS1hNjY0LTExNDU4MmM2Yzc1ZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.jt-ppcNjc4EcVTdlEaXYezZ0iwASkMWKYvfdosyIICM",
   "success_url": "/",
   "env": {
     "PREFIX": {
